@@ -1,2 +1,10 @@
-# aag2018_disruption
-Presentation for AAG Annual Meeting - Spaces of Disruption
+# AAG 2018 Annual Meeting Presentation
+
+### Spaces of Disruption: Blockchains in 21st Century Financial Technology
+
+##### Authors: Matthew Zook*, University of Kentucky, Joe Blankenship, University of Kentucky
+##### Keywords: financial geographies, fintech, blockchain, bitcoin
+
+This paper conceptualizes the rapid evolution and geographies associated with blockchain technologies. Despite its reputation for disruption the possible effects of on the financial industry (and financial geographies) remains uncertain. A number of use cases for blockchain have been developed -- along with initial coin offerings (ICOs) – but it is not clear which will find purchase (and widespread adoption). Nevertheless the rhetoric and widespread interest in blockchain make it an important topic for geographic scholarship. In this paper we ground these technologies’ functional and structural shifts since the appearance of Bitcoin in 2009, and explore the evolving geographies, spaces, places and code/space of blockchain. These spaces are initially examined through their material geographies and dependencies (particularly electricity and computation power). We then analyze the technical spaces of blockchain -- computer languages and architectures, peering and encryption -- to better understand its production, politicalization and socialization of value and meaning. Next we examine the role of ideology -- particular libertarian discourses of freedom -- in shaping particular blockchain places – realms of reputedly pure algorithmic governance (albeit less so in practice) -- and three possible moments in financial space: fixity, indeterminacy and iterative ephemerality Finally we use these spaces and places of blockchain to specify and assess the actual disruptive power and potential value of blockchain. These include the code/spaces of decentralized autonomous organizations (DAOs) and smart contracts.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
